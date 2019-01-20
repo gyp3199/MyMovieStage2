@@ -151,6 +151,7 @@ public class Main2Activity extends AppCompatActivity {
                         ReviewAdapter reviewAdapter=new ReviewAdapter(Main2Activity.this,reviewsArrayList);
                         recyclerViewreview.setLayoutManager(new LinearLayoutManager(Main2Activity.this));
                         recyclerViewreview.setAdapter(reviewAdapter);
+                        Toast.makeText(Main2Activity.this, "adapter", Toast.LENGTH_SHORT).show();
                     } catch (JSONException e) {
                         e.printStackTrace();
                     }
