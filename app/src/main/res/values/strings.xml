@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMovieStage2</string>
+    <string name="Id">Id:</string>
+    <string name="Title">Title:</string>
+    <string name="Vote_avg">VoteAvearge:</string>
+    <string name="overview">Overview</string>
+    <string name="releasedate">ReleaseDate:</string>
+    <string name="Author">Author:</string>
+    <string name="Content">Content:</string>
+    <string name="Movie">Movie Trailer</string>
+    <string name="Review">Reviews:</string>
+    <string name="Trailer">Trailers</string>
+    <string name="favourite">Favourite:</string>
+</resources>
